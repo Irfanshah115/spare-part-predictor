@@ -1,5 +1,4 @@
 import streamlit as st
-boxes etc
 import pandas as pd
 import joblib
 
